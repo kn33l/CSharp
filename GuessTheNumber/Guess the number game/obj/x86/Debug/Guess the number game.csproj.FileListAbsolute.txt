@@ -1,0 +1,4 @@
+C:\Coding\Csharp\Guess the number game\Guess the number game\bin\Debug\Guess the number game.exe
+C:\Coding\Csharp\Guess the number game\Guess the number game\bin\Debug\Guess the number game.pdb
+C:\Coding\Csharp\Guess the number game\Guess the number game\obj\x86\Debug\Guess the number game.exe
+C:\Coding\Csharp\Guess the number game\Guess the number game\obj\x86\Debug\Guess the number game.pdb
